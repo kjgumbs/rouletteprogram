@@ -594,9 +594,6 @@ int main()
 		break;
 		default:
 			cout<<"invalid selection. program ending."<<endl;
-//			cin>>bettype;
-//			tolower(bettype);
-//			switch(bettype)/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		break;
 	}
 	srand ( time(NULL) );
